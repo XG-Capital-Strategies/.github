@@ -98,7 +98,7 @@ Where openness improves interoperability or advances the research, we intend to 
 We are interested in working with researchers, engineers, operators, founders, investors, and domain experts who are drawn to difficult systems problems and evidence-driven experimentation.
 
 **Website:** https://xgcapitalstrategies.com  
-**Contact:** xander@xgcapitalstrategies.com
+**Contact:** info@xgcapitalstrategies.com
 
 ---
 
