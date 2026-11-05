@@ -1,6 +1,6 @@
 # XGCS Agentic Git Governance v1.0
 
-Scope: all XG-Capital-Strategies repositories, developers, agents and automation. Status: DRAFT pending review. Text files are policy, not GitHub ruleset enforcement.
+Scope: all XG-Capital-Strategies repositories, developers, agents and automation. Status: publication PR #3; when merged, this is the organization guidance baseline, **not** GitHub ruleset enforcement. Repo-local agent adoption and technical checks are separately verified.
 
 ## Primary principle: resume rather than proliferate
 Before opening a branch, inspect the current task issue, existing PRs, branch heads, integration base, dependency handoffs and any active worktree. Continue an existing workstream and branch rather than create a fresh branch for a new conversation, model, session or retry. One active implementation branch per issue per repository by default. Genuine parallel work requires a new independently scoped sub-issue, bounded non-overlapping file ownership, named owner and documented stacked PR dependencies.
